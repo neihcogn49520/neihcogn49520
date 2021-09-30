@@ -1,8 +1,7 @@
-# Hi there, I'm a special girl who always brings interesting experiences to you🧐🤭
+# Hi there, I'm a special girl🧐🤭
 - 👋 Hi, I’m Ngọc Hiền
 - 👀 I’m interested in cyber network security 
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on people who have a lot of experience and can give me the knowledge.
 # Contact with me:
 
 
