@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=15E5DB&lines=Hello%F0%9F%91%8B+Welcome+to+my+world+%F0%9F%96%96;I'm+Vietnamese!;My+name+is+Hien.;Follow%F0%9F%99%8C+and+contact+to+me%F0%9F%A4%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=15E5DB&center=true&vCenter=true&lines=Hello%F0%9F%91%8B+Welcome+to+my+world+%F0%9F%96%96;I'm+Vietnamese!;My+name+is+Hien.;Follow%F0%9F%99%8C+and+contact+to+me%F0%9F%A4%99)](https://git.io/typing-svg)
 # Hi there, I'm a special girl🧐🤭
 - 👋 Hi, I’m Ngọc Hiền
 - 👀 I’m interested in cyber network security 
