@@ -4,6 +4,8 @@
 - 👀 I’m interested in cyber network security 
 - 🌱 I’m currently learning everything
 # Contact with me:
+- Facebook: https://www.facebook.com/Ngochienpnd
+- Instagram: https://www.instagram.com/neihcogn_49520/
 
 
 <!---
