@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=15E5DB&size=25&center=true&vCenter=true&width=600&height=80&lines=Hii%F0%9F%91%8B+Welcome+to+my+world+%F0%9F%96%96;I'm+Vietnamese!;My+name+is+Hien.;Follow%F0%9F%99%8C+and+contact+with+me%F0%9F%A4%99)](https://git.io/typing-svg)
-<a href="https://app.daily.dev/neihcogn"><img src="https://api.daily.dev/devcards/e64afbb37f6c45e1bc64462153f39801.png?r=o6p" width="400" alt="Hien Nguyen Thi Ngoc's Dev Card"/></a>
+<a href="https://app.daily.dev/neihcogn"><img src="https://github.com/neihcogn49520/neihcogn49520/blob/master/devcard.svg" width="400" alt="Hien Nguyen Thi Ngoc's Dev Card"/></a>
 # Hi there, welcome to my world🧐🤭
 - 👋 Hi, I’m Ngọc Hiền
 - 👀 I’m interested in NodeJs & Frontend by React, NextJs
